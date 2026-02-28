@@ -1,4 +1,6 @@
 e # Dashboard v1.0
 import weather
-import news 
+import news    
+print(weather.get_info())
+print(news.get_info()) 
 print("Sistem başarıyla başlatıldı ve sonlandırıldı.")
